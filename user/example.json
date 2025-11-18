@@ -44,36 +44,36 @@
       }
     },
     "ai": {
-      "model": "gpt-4o-mini",
+      "model": "moonshot-v1-8k",
       "apikey": "sk-2rNBJOANsLJuyHRI5jI1cdffX6BXK1hCir9fTlJs72M3JYXD",
       "apiUrl": "https://api.moonshot.cn"
     },
     "pushNotifications": [
       {
         "type": "Server",
-        "enabled": true,
+        "enabled": false,
         "sendKey": "your_key"
       },
       {
         "type": "PushPlus",
-        "enabled": true,
+        "enabled": false,
         "token": "your_token"
       },
       {
         "type": "AnPush",
-        "enabled": true,
+        "enabled": false,
         "token": "your_token",
         "channel": "通道ID,多个用英文逗号隔开",
         "to": "根据官方文档获取"
       },
       {
         "type": "WxPusher",
-        "enabled": true,
+        "enabled": false,
         "spt": "your_spt"
       },
       {
         "type": "SMTP",
-        "enabled": true,
+        "enabled": false,
         "host": "smtp服务地址",
         "port": 465,
         "username": "发件人邮箱",
