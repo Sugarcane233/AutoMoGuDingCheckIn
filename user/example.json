@@ -1,18 +1,18 @@
 {
   "config": {
     "user": {
-      "phone": "工学云手机号",
-      "password": "工学云密码"
+      "phone": "199226332037",
+      "password": "Sugarcame233"
     },
     "clockIn": {
       "mode": "daily",
       "location": {
-        "address": "四川省 · 成都市 · 高新区 · 在科创十一街附近",
-        "latitude": "30.559922",
-        "longitude": "104.093023",
-        "province": "四川省",
-        "city": "成都市",
-        "area": "高新区"
+        "address": "山东省 · 青岛市 · 市北区 · 在和达中心城A座附近",
+        "latitude": "36.1095728047784",
+        "longitude": "120.39025931434284",
+        "province": "山东省",
+        "city": "青岛市",
+        "area": "市北区"
       },
       "imageCount": 0,
       "description": [
@@ -38,15 +38,15 @@
         "submitTime": 4
       },
       "monthly": {
-        "enabled": false,
+        "enabled": true,
         "imageCount": 0,
         "submitTime": 29
       }
     },
     "ai": {
       "model": "gpt-4o-mini",
-      "apikey": "sk-osdhgosdipghpsdgjiosfvinoips",
-      "apiUrl": "https://api.openai.com/"
+      "apikey": "sk-2rNBJOANsLJuyHRI5jI1cdffX6BXK1hCir9fTlJs72M3JYXD",
+      "apiUrl": "https://api.moonshot.cn"
     },
     "pushNotifications": [
       {
